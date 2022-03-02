@@ -1,2 +1,2 @@
-[B[B[B[B#!/bin/bash
+#!/bin/bash
 pwd; ls-l
