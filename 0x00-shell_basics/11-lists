@@ -1,0 +1,2 @@
+[B[B[B[B#!/bin/bash
+pwd; ls-l
