@@ -1,3 +1,2 @@
-#! /bin/bash
-[A[C[C[C[C[C[C[C[C[C[C[C[C
-echo $0 ;full_path=$(realpath $0) echo $full_path
+#!/bin/bash
+echo -e '#!/bin/bash\npwd' >>0-current_working_directory
