@@ -1,2 +1,3 @@
 #!/bin/bash
- chmod u+x[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[Cchmod u+x hello
+--chmod=+x -- hello
+
